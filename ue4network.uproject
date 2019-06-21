@@ -1,0 +1,12 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{B5E9F788-4E53-4782-25E5-9EBF8F913600}",
+	"Category": "",
+	"Description": "",
+	"Plugins": [
+		{
+			"Name": "PixelStreaming",
+			"Enabled": true
+		}
+	]
+}
